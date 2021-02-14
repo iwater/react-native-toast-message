@@ -28,7 +28,7 @@ const imageSourcePropType = PropTypes.oneOfType([
 
 Icon.propTypes = {
   source: imageSourcePropType,
-  style: ViewPropTypes.style
+  //style: ViewPropTypes.style
 };
 
 Icon.defaultProps = {

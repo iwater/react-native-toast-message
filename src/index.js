@@ -390,7 +390,7 @@ class Toast extends Component {
 
 Toast.propTypes = {
   config: PropTypes.objectOf(PropTypes.func),
-  style: ViewPropTypes.style,
+  // style: ViewPropTypes.style,
   topOffset: PropTypes.number,
   bottomOffset: PropTypes.number,
   keyboardOffset: PropTypes.number,
